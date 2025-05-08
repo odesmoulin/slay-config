@@ -1,3 +1,6 @@
 {
-  "appState": "test"
+  "versions": {
+    "1.0.0": "review",
+    "1.0.1": "prod"
+  }
 }
